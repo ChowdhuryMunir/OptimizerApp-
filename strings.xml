@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PerfOptimizer</string>
+
+    <!-- Bottom nav labels -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_apps">Apps</string>
+    <string name="nav_storage">Storage</string>
+    <string name="nav_cache">Cache</string>
+
+    <!-- Descriptions for accessibility -->
+    <string name="desc_stop_app">Stop this background app</string>
+    <string name="desc_refresh">Refresh the app list</string>
+</resources>

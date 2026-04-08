@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dashboardFragment"
+        android:icon="@drawable/ic_nav_dashboard"
+        android:title="@string/nav_dashboard" />
+
+    <item
+        android:id="@+id/runningAppsFragment"
+        android:icon="@drawable/ic_nav_apps"
+        android:title="@string/nav_apps" />
+
+    <item
+        android:id="@+id/storageFragment"
+        android:icon="@drawable/ic_nav_storage"
+        android:title="@string/nav_storage" />
+
+    <item
+        android:id="@+id/cacheFragment"
+        android:icon="@drawable/ic_nav_cache"
+        android:title="@string/nav_cache" />
+
+</menu>
